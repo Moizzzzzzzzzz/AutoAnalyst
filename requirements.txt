@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic
+jinja2
+
+pandas
+scipy
+statsmodels
+scikit-learn
+matplotlib
+plotly
+
+langgraph
+langchain-core
+
+python-dotenv
+pytest
